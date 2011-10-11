@@ -36,6 +36,13 @@ class Eld:
         self._save("box")
         print thing
 
+    def loadFile2Dic(self, fileName):
+        file = open(fileName, "r")
+        lines = file.readlines()
+        file.close()
+        for line in lines:
+            print 0, line
+              
     def showBox(self):
         self._box = self._load("box")
         for thing in self._box:
