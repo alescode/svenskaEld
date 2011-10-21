@@ -26,9 +26,10 @@ class Eld:
 
     def add2Dic(self, key, value):
         self.dic = self._load("dic")
+        if not self.dic.has_key(key):
+            print key, '-->', value
         self.dic[key] = value
         self._save("dic")
-        print key, '-->', value
 
     def add2Box(self, thing):
         self.box = self._load("box")
@@ -41,7 +42,9 @@ class Eld:
         lines = file.readlines()
         file.close()
         for line in lines:
-            print 0, line
+            tokens = line.partition("&")
+            if tokens[2] != '':  # the line has correct formatting
+                self.add2Dic(tokens[0].strip(), tokens[2].strip())
               
     def showBox(self):
         self._box = self._load("box")
