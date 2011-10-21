@@ -6,7 +6,7 @@ import cPickle as pickle
 class Eld:
     def __init__(self):
         self.dic = {}
-        self.box = []
+        self.box = set()
         # doesn't work self.get = lambda s: s == "dic" and self.dic or self.box
         self.get = lambda s: self.dic if s == "dic" else self.box
         #self._save("dic")
@@ -28,23 +28,30 @@ class Eld:
         self.dic = self._load("dic")
         if not self.dic.has_key(key):
             print key, '-->', value
-        self.dic[key] = value
+            self.dic[key] = value
         self._save("dic")
 
     def add2Box(self, thing):
         self.box = self._load("box")
-        self.box.append(thing)
+        self.box.add(thing)
         self._save("box")
         print thing
 
     def loadFile2Dic(self, fileName):
-        file = open(fileName, "r")
+        file = open(fileName, "r") #! factor this code
         lines = file.readlines()
         file.close()
         for line in lines:
             tokens = line.partition("&")
             if tokens[2] != '':  # the line has correct formatting
                 self.add2Dic(tokens[0].strip(), tokens[2].strip())
+
+    def loadFile2Box(self, fileName):
+        file = open(fileName, "r")
+        lines = file.readlines()
+        file.close()
+        for line in lines:
+            self.add2Box(line.strip())
               
     def showBox(self):
         self._box = self._load("box")

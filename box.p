@@ -1,4 +1,8 @@
-(lp1
+c__builtin__
+set
+p1
+((lp2
 S'ha det bra!'
-p2
-a.
+p3
+atRp4
+.
