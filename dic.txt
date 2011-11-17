@@ -1,0 +1,695 @@
+smaklig måltid! , enjoy your meal!,{smaklig}
+tjänar , earn,{tjänar}
+vid , at; by; at the time of,{vid}
+lika med , equal to,{lika}
+väl , well,{väl}
+börjar , start,{börjar}
+sedan , since,{sedan}
+lever , live,{lever}
+eftersom , because,{eftersom}
+trist , boring; sad; dull,{trist}
+vid , at; by; at the time of,{vid}
+lägger sig , lie down,{lägger}
+somnar , fall asleep,{somnar}
+börjar , start,{börjar}
+ändra , modify; change,{ändra}
+byta , switch; trade; change,{byta}
+göra om , redo,{göra}
+fel , error; wrong,{fel}
+rätt , right; correct; straight; dish,{rätt}
+stiger upp , get up,{stiger}
+höger sida , right side,{höger}
+snart , soon; shortly,{snart}
+välja , choose,{välja}
+föddes , be born,{föddes}
+mellan , between,{mellan}
+hur dags , when? at what time?,{hur}
+översätt , translate,{översätt}
+försök , try; attempt,{försök}
+igen , again,{igen}
+rostat , roasted,{rostat}
+avsluta , end; close,{avsluta}
+räknar , count,{räknar}
+fikon , fig,{fikon}
+kam , comb,{kam}
+hittar , find,{hittar}
+svamp , mushroom,{svamp}
+kryper , crawl,{kryper}
+gråter , cry,{gråter}
+brukar , usually do,{brukar}
+skrattar , laugh,{skrattar}
+städar , clean,{städar}
+sällan , seldom,{sällan}
+ibland , sometimes,{ibland}
+faluröd , red (particular color),{faluröd}
+kör , drive; choir (different sound [sh|k]),{kör}
+gården , farm; ranch; courtyard,{gården}
+trädgården , garden,{trädgården}
+landet , country; the countryside (rural),{landet}
+jaga , hunt,{jaga}
+aldrig , never,{aldrig}
+åka skidor , ski,{åka}
+skridskor , skates,{skridskor}
+schack , chess,{schack}
+två och två , in pairs,{två}
+skoj , fun,{skoj}
+tyvärr , unfortunately,{tyvärr}
+i stället , instead,{i}
+tror , believe; think; guess,{tror}
+tycker , think; reckon; opine,{tycker}
+tråkig , boring,{tråkig}
+båda , both,{båda}
+nyligen , lately,{nyligen}
+dålig , bad,{dålig}
+svår , difficult,{svår}
+lätt , easy; light,{lätt}
+andra , second; other,{andra}
+en annan , another,{en}
+synd , pity,{synd}
+våning , floor (building stories),{våning}
+hals , neck,{hals}
+halsduk , scarf,{halsduk}
+mössa , cap,{mössa}
+hylla , shelf,{hylla}
+matta , carpet,{matta}
+saker , things,{saker}
+vind , attic; wind,{vind}
+närheten , vicinity,{närheten}
+marken , ground,{marken}
+våg , wave; scale,{våg}
+hav , sea,{hav}
+jorden , Earth,{jorden}
+slätten , plain (geography),{slätten}
+fält , field,{fält}
+förut , before,{förut}
+ute , outside,{ute}
+inne , inside,{inne}
+sjö , lake,{sjö}
+å , river,{å}
+ö , island,{ö}
+berätta , tell,{berätta}
+känner , feel; know (people),{känner}
+källar , basement,{källar}
+fin , good; nice,{fin}
+hål , hole,{hål}
+letar efter , look for,{letar}
+letar , look,{letar}
+någonting , something,{någonting}
+något , something,{något}
+någon , someone,{någon}
+kasse , bag,{kasse}
+påse , bag,{påse}
+låna , lend; borrow,{låna}
+väninna , (female) friend,{väninna}
+hostar , cough,{hostar}
+förra , previous; last; former,{förra}
+låt , let,{låt}
+lat , lazy,{lat}
+långsam , slow,{långsam}
+snabb , fast,{snabb}
+fart , speed,{fart}
+tung , heavy,{tung}
+storlek , size,{storlek}
+dyr , expensive,{dyr}
+billig , cheap,{billig}
+några , some,{några}
+inga , none,{inga}
+alla , all,{alla}
+samma , same,{samma}
+likadana , alike,{likadana}
+bensinstation , gas station,{bensinstation}
+bredvid , next to,{bredvid}
+bakom , behind,{bakom}
+framför , in front of,{framför}
+ljud , sound,{ljud}
+ljus , light,{ljus}
+viktig , important,{viktig}
+betydelse , meaning,{betydelse}
+beroende , depending; dependence,{beroende}
+skilja , difference; distinction,{skilja}
+eftersom , because; since,{eftersom}
+tänker , think,{tänker}
+skräp , litter,{skräp}
+syskon , siblings,{syskon}
+spännande , exciting,{spännande}
+vågrätt , horizontally,{vågrätt}
+lodrätt , vertically,{lodrätt}
+släkt , extended family,{släkt}
+faktist , actually,{faktist}
+sen , ago; late,{sen}
+ganska , quite,{ganska}
+nästan , almost,{nästan}
+struts , ostrich,{struts}
+massa , a lot of,{massa}
+nobelpristagare , winner of the Nobel Prize,{nobelpristagare}
+kanske , maybe,{kanske}
+kostnad , cost,{kostnad}
+flyttar , move,{flyttar}
+användbar , useful,{användbar}
+använda , use,{använda}
+nedan , below,{nedan}
+tungan , tongue,{tungan}
+läpparna , lips,{läpparna}
+mun , mouth,{mun}
+beställ , order; menu (restaurant),{beställ}
+bred , broad; wide,{bred}
+rund , round,{rund}
+ses senare , see you later,{ses}
+tidig , early,{tidig}
+naturligtvis , naturally; of course,{naturligtvis}
+tänker , think; reflect; plan,{tänker}
+skön , nice; beautiful,{skön}
+jobbig , hard; laborious,{jobbig}
+tänder , light (verb),{tänder}
+väger , weigh,{väger}
+sätter , put; set,{sätter}
+lägg , add; leave (something somewhere),{lägg}
+möter , meet,{möter}
+söker , seek; search,{söker}
+bort , gone; out; away,{bort}
+kyl , fridge,{kyl}
+kylskåp , refrigerator,{kylskåp}
+skåp , cabinet; cupboard,{skåp}
+sopor , garbage,{sopor}
+sopa , broom,{sopa}
+kvast , broom,{kvast}
+många , many,{många}
+mycket , much,{mycket}
+annars , otherwise,{annars}
+tala sanning , tell the truth,{tala}
+sant , true,{sant}
+död , dead,{död}
+hemmafru , housewife,{hemmafru}
+konstnär , artist,{konstnär}
+arbetslös , unemployd,{arbetslös}
+består , consist,{består}
+skog , forest,{skog}
+råd , advice,{råd}
+ge , give,{ge}
+skriv ner , write down,{skriv}
+skriv ut , print,{skriv}
+besvärlig , troublesome; difficult,{besvärlig}
+siffra , figure; digit,{siffra}
+går av , get off,{går}
+går på , get on,{går}
+svänger , turn,{svänger}
+rakt fram , straight ahead,{rakt}
+husdjur , pet,{husdjur}
+hälsa på , visit,{hälsa}
+fredags , last Friday,{fredags}
+körsbär , cherries,{körsbär}
+tvillingar , twins,{tvillingar}
+mening , sentence,{mening}
+växte upp , grow up,{växte}
+skraplott , scratch card,{skraplott}
+kex , biscuits,{kex}
+burk , jar,{burk}
+mjöl , flour,{mjöl}
+majs , corn,{majs}
+godis , sweets; candy,{godis}
+havregryn , oatmeal,{havregryn}
+torsk , cod (fish),{torsk}
+nötkött , beef,{nötkött}
+fläskkött , pork,{fläskkött}
+naturkunskap , natural sciences,{naturkunskap}
+konst , art,{konst}
+skylte , sign,{skylte}
+gymnasieskolan , secondary school,{gymnasieskolan}
+kontor , office,{kontor}
+anställd , employee,{anställd}
+gärna , please; gladly; with pleasure,{gärna}
+lämnar , leave (go); return (something lent),{lämnar}
+kalas , children's party,{kalas}
+födelsedag , birthday,{födelsedag}
+maskerad , costume party,{maskerad}
+sallad , salad,{sallad}
+soppa , soup,{soppa}
+efterrätt , dessert,{efterrätt}
+anländer , arrive,{anländer}
+avgår , depart,{avgår}
+försenat , late,{försenat}
+i tid , on time,{i}
+flyg , flight,{flyg}
+flygplan , airplane,{flygplan}
+simhall , indoor pool,{simhall}
+personlig , personal,{personlig}
+löpband , treadmill,{löpband}
+stavgång , nordic walk,{stavgång}
+lag , team,{lag}
+mål , goal,{mål}
+ungefär , approximately; about,{ungefär}
+måla , paint,{måla}
+rita , draw,{rita}
+får , sheep,{får}
+ko , cow,{ko}
+kossa , cow (female),{kossa}
+tjur , bull,{tjur}
+giraff , giraffe,{giraff}
+styrketräning , lifts (weights),{styrketräning}
+orm , snake,{orm}
+mask , mask; worm,{mask}
+kanin , rabbit,{kanin}
+groda , frog,{groda}
+padda , toad,{padda}
+häst , horse,{häst}
+snigel , snail,{snigel}
+varg , wolf,{varg}
+räv , fox,{räv}
+tvättbjörn , raccoon,{tvättbjörn}
+björn , bear,{björn}
+gissa , figure; guess,{gissa}
+sten , stone,{sten}
+stig , path,{stig}
+fickan , pocket,{fickan}
+otrolig , incredible,{otrolig}
+otrevlig , unpleasant,{otrevlig}
+umgås , socialize; keep company,{umgås}
+puder , powder,{puder}
+rynka , wrinkle,{rynka}
+i grund och botten , basically,{i}
+kloka , wise,{kloka}
+tur , luck; lucky,{tur}
+skillnad , difference,{skillnad}
+härlig , lovely; divine; magnificient,{härlig}
+verkligen , really,{verkligen}
+förlor , forgive,{förlor}
+slag , kind,{slag}
+göra om , redo,{göra}
+bygga om , redo,{bygga}
+bidra , contribute,{bidra}
+tuff , tough,{tuff}
+förebild , example; model,{förebild}
+fattig , poor,{fattig}
+rika , rich,{rika}
+vara , good; product,{vara}
+strömming , herring,{strömming}
+räkor , shrimps,{räkor}
+ask , box,{ask}
+avtal , agreement,{avtal}
+fet , fat,{fet}
+fräsch , fresh,{fräsch}
+färsk , fresh; new,{färsk}
+få , few,{få}
+urgott , jättejättegott,{urgott}
+ärtor , peas,{ärtor}
+berg , mountain,{berg}
+strand , beach,{strand}
+på nytt , again,{på}
+släng , throw,{släng}
+skolbänk , school desk,{skolbänk}
+frimärke , stamp,{frimärke}
+kuvert , envelope,{kuvert}
+musiker , musician,{musiker}
+sångerskan , singer,{sångerskan}
+upptagen , busy,{upptagen}
+ledig , free; vacant,{ledig}
+servitör , waiter,{servitör}
+servitris , waitress,{servitris}
+skeden , spoon,{skeden}
+gaffeln , fork,{gaffeln}
+kniven , knife,{kniven}
+servetten , napkin,{servetten}
+socker , sugar,{socker}
+sur , sour; moody,{sur}
+söt , sweet,{söt}
+kryddstark , hot (spicy),{kryddstark}
+ögonblick , second; moment,{ögonblick}
+dricks , tip,{dricks}
+staty , statue,{staty}
+målning , painting,{målning}
+trappan , stairs,{trappan}
+kulle , hill,{kulle}
+backe , hill; downslope,{backe}
+fontän , fountain,{fontän}
+trumma , drums,{trumma}
+gitarr , gitar,{gitarr}
+djurpark , zoo,{djurpark}
+byggnad , building,{byggnad}
+forntid , ancient times,{forntid}
+berömd , famous,{berömd}
+ler , smile,{ler}
+vilse , lost,{vilse}
+moskén , mosque,{moskén}
+kyrkan , church,{kyrkan}
+arg , angry; mad,{arg}
+glad , happy,{glad}
+ledsen , sad,{ledsen}
+texter , lyrics; texts,{texter}
+packar upp , unpack,{packar}
+packar , pack,{packar}
+seglar , sail,{seglar}
+tältar , camp,{tältar}
+skidåkare , skier,{skidåkare}
+segelbåt , sailboat,{segelbåt}
+rider , rider,{rider}
+gräs , grass,{gräs}
+badbyxor , swimming shorts,{badbyxor}
+baddräkter , swimming suit,{baddräkter}
+sandaler , sandals,{sandaler}
+shorts , shorts,{shorts}
+staket , fence; rail,{staket}
+simbassäng , pool,{simbassäng}
+klättrar på , climb,{klättrar}
+hoppar , jump,{hoppar}
+kastar , throw,{kastar}
+fångar , catch,{fångar}
+fungerar , function; work,{fungerar}
+reparerar , repair,{reparerar}
+trasig , broken,{trasig}
+liknar , seem; resemble; compare,{liknar}
+varandra , one another,{varandra}
+spis , stove,{spis}
+diskmaskin , dishwashing machine,{diskmaskin}
+köksbanken , top of the kitchen,{köksbanken}
+glas , glass,{glas}
+glass , ice cream,{glass}
+tom , empty,{tom}
+sophinken , ash bin,{sophinken}
+tak , roof; ceiling,{tak}
+golv , floor,{golv}
+full , full; drunk,{full}
+ful , ugly,{ful}
+sopar , sweep (the floor),{sopar}
+ansikte , face,{ansikte}
+dammsuger , vacuum-clean,{dammsuger}
+sovrum , room,{sovrum}
+badkaret , bathtub,{badkaret}
+handfatet , washbasin,{handfatet}
+dusch , shower,{dusch}
+badar , take a bath,{badar}
+stark , strong,{stark}
+fiol , violin,{fiol}
+ställe , place,{ställe}
+områd , area,{områd}
+öga , eye,{öga}
+öra , ear,{öra}
+näsa , nose,{näsa}
+mun , mouth,{mun}
+ben , leg,{ben}
+arm , arm,{arm}
+armbågen , elbow,{armbågen}
+skadar , damage,{skadar}
+plåster , band-aid,{plåster}
+knä , knee,{knä}
+ramlar , fall over,{ramlar}
+slå upp , look up; open,{slå}
+huvud , head,{huvud}
+mage , stomach,{mage}
+ont , pain,{ont}
+feber , fever,{feber}
+försiktig , careful,{försiktig}
+vinner , win,{vinner}
+förlorar , lose,{förlorar}
+antagligen , probably,{antagligen}
+även , even; also,{även}
+värld , world,{värld}
+världsdel , continent,{världsdel}
+brölopp , wedding,{brölopp}
+beklaga , regret,{beklaga}
+sorg , loss; pain,{sorg}
+rädd , scared,{rädd}
+läskig , scary,{läskig}
+bygger , build,{bygger}
+bro , bridge,{bro}
+redan , already,{redan}
+stilla , pacific,{stilla}
+regnskogen , rainforest,{regnskogen}
+öknen , desert (also öken),{öknen}
+växt , plant,{växt}
+barrträd , pine; coniferous,{barrträd}
+eld , fire,{eld}
+håller , hold,{håller}
+apa , ape,{apa}
+kameler , camel,{kameler}
+val , whale; choice; election,{val}
+pingvin , penguin,{pingvin}
+tiger , tiger,{tiger}
+fågel , bird,{fågel}
+and , duck (änderna),{and}
+höna , hen,{höna}
+tupp , rooster,{tupp}
+farlig , dangerous,{farlig}
+vacker , pretty; fair,{vacker}
+rör , touch; move,{rör}
+haj , shark,{haj}
+handlar , trade; market; shop,{handlar}
+nödvändigt , required; necessary,{nödvändigt}
+frisk , healthy; well; good,{frisk}
+utanför , outside,{utanför}
+del , part,{del}
+bara , just,{bara}
+växlar , exchange (money); gear; break,{växlar}
+ryggsäck , backpack,{ryggsäck}
+portfölj , portfolio; briefcase,{portfölj}
+bankomat , atm,{bankomat}
+bär , carry; berry,{bär}
+låda , box,{låda}
+så där , this way; more or less,{så}
+rea , sale,{rea}
+artig , polite; corteous; mannerly,{artig}
+skär , cut; chop; slash,{skär}
+sax , scissor,{sax}
+bit , bit; piece,{bit}
+skiva , slice,{skiva}
+fyrkantig , square-shaped,{fyrkantig}
+mäter , measure,{mäter}
+fast , fixed; compact; inflexible,{fast}
+minst , least; at least,{minst}
+dum , dumb; fool,{dum}
+blomster , flower ,{blomster}
+satsmelodi , intonation,{satsmelodi}
+ram , frame,{ram}
+stannar , stop; stay,{stannar}
+vikt , weight,{vikt}
+någonsin , ever,{någonsin}
+firar , celebrate,{firar}
+nyår , new year,{nyår}
+paraden , parade,{paraden}
+kristen , christian,{kristen}
+hinduisk , hindi,{hinduisk}
+buddistisk , buddhist,{buddistisk}
+muslimsk , muslim,{muslimsk}
+klar , set; clear; finished,{klar}
+redo , ready,{redo}
+skruvmejsel , screwdriver,{skruvmejsel}
+skiftnyckel , monkeywrench,{skiftnyckel}
+tång , pincers ,{tång}
+hammare , hammer,{hammare}
+tejp , tape,{tejp}
+ficklampa , flashlight,{ficklampa}
+blyertspenna , pencil,{blyertspenna}
+linjal , ruler,{linjal}
+ställer , put; set; support,{ställer}
+spik , nail,{spik}
+skruv , screw,{skruv}
+fryst , frozen,{fryst}
+mogen , ripe; adult; mature,{mogen}
+rutten , rotten,{rutten}
+häll , put; pour,{häll}
+soldater , soldier,{soldater}
+drottning , queen,{drottning}
+kung , king,{kung}
+röstar , vote,{röstar}
+statsminister , Prime Minister,{statsminister}
+nyhet , news,{nyhet}
+affärsman , businessman,{affärsman}
+upptäcka , discover,{upptäcka}
+täcka , cover,{täcka}
+forn , ancient,{forn}
+överens , agree,{överens}
+åter , back; again,{åter}
+glöm , forget,{glöm}
+kom ihåg , remember,{kom}
+nöjd , satisfied,{nöjd}
+tokig , crazy,{tokig}
+sån , such (also sådan),{sån}
+ju , why; of course; to be sure,{ju}
+räcka , do; make,{räcka}
+vidare , more; further,{vidare}
+beundra , admire; adore,{beundra}
+lust , pleasure; desire; craving,{lust}
+fy , oh!; ugh; phew,{fy}
+djävul , devil,{djävul}
+ensam , alone,{ensam}
+allvarlig , seriously; serious; severe,{allvarlig}
+bajsat , poop,{bajsat}
+macka , sandwich,{macka}
+tillfällig , temporarily; temporal; random; casual,{tillfällig}
+mjuk , soft; liquid; smooth,{mjuk}
+alldeles , quite; entirely,{alldeles}
+tidtabell , schedule,{tidtabell}
+hel , whole,{hel}
+konstig , weird,{konstig}
+pendeltåg , commuter train,{pendeltåg}
+nog , enough; sufficient; probably,{nog}
+får motion , exercise,{får}
+går förbi , bypass; go by,{går}
+förbi , gone; past; over,{förbi}
+komplicerad , complex; complicated,{komplicerad}
+flod , river; stream,{flod}
+yta , area; surface,{yta}
+skilja , separate,{skilja}
+skild , different,{skild}
+framtiden , future,{framtiden}
+förflutna , past,{förflutna}
+nuvarande , present,{nuvarande}
+kär , love; dear,{kär}
+dela , share,{dela}
+länge , for a long time,{länge}
+åskar , thunder (verb),{åskar}
+hellre , rather,{hellre}
+invånare , local; native,{invånare}
+tvärtom , vice-versa,{tvärtom}
+enkel , single; simple,{enkel}
+utvecklar , develop; produce,{utvecklar}
+alltför , too; over,{alltför}
+instämmer , agree; cite,{instämmer}
+påstående , claim,{påstående}
+börda , weight; load; cargo,{börda}
+skärpa , sharpen; increase,{skärpa}
+allmän , common; public; general,{allmän}
+bild , image; view; figure,{bild}
+kräver , claim (verb); need,{kräver}
+värdefulla , valuable,{värdefulla}
+värde , worth,{värde}
+prestation , achievement,{prestation}
+egentligen , actually,{egentligen}
+egentlig , real; net; proper; intrinsic,{egentlig}
+minne , mind; memory,{minne}
+minnas , remember; retain,{minnas}
+förmåga , ability; capacity; faculty; talent,{förmåga}
+säker , certain; sure; clear,{säker}
+angriper , attack,{angriper}
+obekant , strange; unfamiliar,{obekant}
+skriftligt , written,{skriftligt}
+verka , operate; act; seem,{verka}
+reder , prepare; thicken,{reder}
+förvänta , look; expect,{förvänta}
+vanligtvis , usually; often,{vanligtvis}
+svårigheter , difficulty,{svårigheter}
+angelägen , pressing; important,{angelägen}
+visning , show; demonstration; exhibition,{visning}
+utbildning , education,{utbildning}
+bildning , culture; learning; refinement,{bildning}
+upplysning , information; data,{upplysning}
+begåvning , cleverness; ability,{begåvning}
+framåt , forward,{framåt}
+gå framåt , advance,{gå}
+enbart , entirely; solely,{enbart}
+endast , alone; merely,{endast}
+fakta , fact,{fakta}
+anstränger , constrain; force,{anstränger}
+ämne , material; stuff; issue; subject,{ämne}
+begriper , understand; catch on,{begriper}
+klargörer , clear; disambiguate,{klargörer}
+främst , mainly; chiefly,{främst}
+tentamen , examination,{tentamen}
+tenta , exam,{tenta}
+prov , test; exam,{prov}
+medverkan , contribution; assistance,{medverkan}
+tillåten , permitted; allowed,{tillåten}
+bakfylla , hangover,{bakfylla}
+bakis , hangover,{bakis}
+jord , earth; dirt; ground; soil,{jord}
+gubben , old man,{gubben}
+snuvig , congested; sneezy,{snuvig}
+skvaller , gossip; talk,{skvaller}
+öronsnibb , ear lobe,{öronsnibb}
+besserwisser , know-it-all,{besserwisser}
+blixt , lightning,{blixt}
+dunder , thunder,{dunder}
+paj , pie; broken,{paj}
+schema , schedule,{schema}
+motsats , opposite,{motsats}
+antingen , either,{antingen}
+sats , preposition,{sats}
+betona , stress; accent,{betona}
+klär sig , dresses,{klär}
+snygg , well; pretty; handsome,{snygg}
+bryr sig , care about,{bryr}
+hög klack , high heel,{hög}
+långbyxor , trousers,{långbyxor}
+keps , cap,{keps}
+omgivet , surrounded,{omgivet}
+pigg , alert; alive; sharp,{pigg}
+tekanna , teapot,{tekanna}
+bricka , tray,{bricka}
+osthyvel , cheese slicer,{osthyvel}
+verktyg , equipment; tool,{verktyg}
+assiett , plate; dish,{assiett}
+regelbunden , regular,{regelbunden}
+undantag , exception,{undantag}
+utantill , by heart,{utantill}
+skifta , change; shift,{skifta}
+kjol , skirt,{kjol}
+lägg märke , take notice; pay attention to,{lägg}
+alltså , so; therefore; ergo,{alltså}
+mönster , style; pattern; type,{mönster}
+i genomnsnitt , on average,{i}
+inkomst , income,{inkomst}
+igenom , through,{igenom}
+pärm , binder,{pärm}
+filt , blanket,{filt}
+varuhus , department store,{varuhus}
+möjlig , possible,{möjlig}
+märke , brand; make,{märke}
+glödlampa , lightbulb,{glödlampa}
+ändå , nevertheless; however,{ändå}
+valör , value; denomination,{valör}
+avgör , determine; decide; resolve,{avgör}
+anger , specify; mention; assign,{anger}
+äger , own; have; possess,{äger}
+tvär , short; sharp; abrupt,{tvär}
+gå över , cross,{gå}
+stipendium , scholarship,{stipendium}
+tjänst , post; job,{tjänst}
+bolag , company,{bolag}
+kind , cheek,{kind}
+axel , shoulder,{axel}
+miljö , environment; surroundings,{miljö}
+pekar , point,{pekar}
+underkänt , failed,{underkänt}
+fort , speedy; quick,{fort}
+ändelse , ending,{ändelse}
+konkurrens , competition,{konkurrens}
+bidrag , grant,{bidrag}
+inställning , attitude; approach,{inställning}
+böter , fine,{böter}
+orsak , source; reason,{orsak}
+roa sig , have fun,{roa}
+omkring , around,{omkring}
+lycklig , happy,{lycklig}
+anpassar , adapt; get used to,{anpassar}
+tveksam , dubious; uncertain,{tveksam}
+stund , moment; while,{stund}
+imponerad , impressed,{imponerad}
+bekväm , comfortable; easy; convenient,{bekväm}
+seriös , serious,{seriös}
+stickar , run; go; put,{stickar}
+styck , piece; unit,{styck}
+antar , suppose; presume,{antar}
+stackare , victim; beggar; dog,{stackare}
+överraskning , surprise,{överraskning}
+spänn , kronor,{spänn}
+hummer , lobster,{hummer}
+bråkar , protest; argue; brawl,{bråkar}
+bjuder , treat; invite,{bjuder}
+lön , salary; pay ,{lön}
+lämplig , appropiate; useful,{lämplig}
+snål , greedy; mean,{snål}
+säker , certain; safe,{säker}
+läglig , legal; convenient; timely,{läglig}
+låter , sounds,{låter}
+svenskar , Swedish people,{svenskar}
+trollkarl , wizard,{trollkarl}
+konstnär , artist; painter,{konstnär}
+uppfinnare , innovator,{uppfinnare}
+lära ut , teach,{lära}
+snickare , carpenter,{snickare}
+bonde , farmer; pawn,{bonde}
+färdig , ready; completed,{färdig}
+läkemedel , pharmacy,{läkemedel}
+sån där , of those,{sån}
+skyndar , hurry,{skyndar}
+dukar , set (the table),{dukar}
+landa , land (airplane),{landa}
